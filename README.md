@@ -1,6 +1,6 @@
 ## TýmM - Projekt předmětu ŘSP
 
-### Členové:
+### Členové
 * Zdeněk Tretera - Scrum Master
 * Dominik Roupec - Product Owner
 * Michaela Hrdinová
@@ -8,7 +8,7 @@
 * Roman Policar
 * Michal Urbánek
 
-### Používané nástroje:
+### Používané nástroje
 * ScrumDesk - plánování projektu
 * MS Teams - komunikace týmu
 * GitHub - databáze projektu
