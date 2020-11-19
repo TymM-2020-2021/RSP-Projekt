@@ -12,3 +12,6 @@
 * ScrumDesk - plánování projektu
 * MS Teams - komunikace týmu
 * GitHub - databáze projektu
+
+###Technologie
+* Databáze - SQL
