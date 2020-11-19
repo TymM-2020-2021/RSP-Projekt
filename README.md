@@ -13,5 +13,5 @@
 * MS Teams - komunikace týmu
 * GitHub - databáze projektu
 
-###Technologie
+### Technologie
 * Databáze - SQL
