@@ -15,3 +15,4 @@
 
 ### Technologie
 * Databáze - SQL
+* Aplikace - HTML + PHP
